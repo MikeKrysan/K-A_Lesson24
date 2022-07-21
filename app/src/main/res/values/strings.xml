@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">K&amp;A_Lesson24</string>
+    <string name="title">Вычислить \"C\"</string>
+    <string name="result_info">Результат:&#160;</string>
+    <string name="input_a">Введите значение \"а\"</string>
+    <string name="input_b">Введите значение \"b\"</string>
+    <string name="result"> Результат </string>
+</resources>
